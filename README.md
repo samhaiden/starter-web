@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-This is how you deploy.
+This is how you deploy. More info.
 
 ## How To Contribute
 
