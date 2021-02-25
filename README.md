@@ -16,5 +16,5 @@ This is how you deploy.
 
 ## How To Contribute
 
-This is how you contribute.
+This is how you contribute. That's it.
 
