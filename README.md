@@ -18,3 +18,7 @@ This is how you deploy.
 
 This is how you contribute. That's it.
 
+## Copyright
+
+This is a copyright notice.
+
